@@ -1,7 +1,6 @@
 import socket
 from _thread import *
 import sys
-import heroku3
 
 server = "0.0.0.0"
 port = 8080
